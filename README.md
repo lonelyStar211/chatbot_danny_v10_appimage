@@ -52,3 +52,4 @@ YOU DO NOT HAVE TO ACCEPT OR AGREE TO EVERYTHING IT SAYS
 
 SO DON'T TAKE WHATEVER IT SAYS TOO SERIOUSLY 
 ```
+our forum: https://retrocoders.phatcode.net/
