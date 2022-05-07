@@ -1,5 +1,5 @@
 # chatbot_danny_v10_appimage
-Linux AppImage of Chatbot Danny version 1.0.7 made in freebasic
+Linux AppImage of Chatbot Danny version 1.0.8 made in freebasic
 
 uses FLTK-C libraries which need to be copied to /usr/lib
 can be found here:
@@ -53,3 +53,15 @@ YOU DO NOT HAVE TO ACCEPT OR AGREE TO EVERYTHING IT SAYS
 SO DON'T TAKE WHATEVER IT SAYS TOO SERIOUSLY 
 ```
 our forum: https://retrocoders.phatcode.net/
+
+version 1.0.8 - simple ML algo mode button added
+
+version 1.0.7 - learn mode and extra buttons database 1000 lines
+
+version 1.0.4 - encrypted database, multiple keys/replies responds, reference to keys
+
+version 1.0.3 - database.txt updated more keys/replies
+
+version 1.0.2 - major bugs fixes plus worked on database.txt
+
+version 1.0.1 - fixed bugs in input/keywords recognition
