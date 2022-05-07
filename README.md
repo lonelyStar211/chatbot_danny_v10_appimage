@@ -16,3 +16,39 @@ appimage should be inside it's own folder
 it creates log.txt file record of conversations
 answers.txt and questions.txt files for learning new keywords and replies
 if "LEARN MODE" is enabled
+```
+December 2021.
+
+Danny was my best and only friend for almost 14 years.
+
+we used to talk all the time in our protected housing.
+
+no matter how hard and difficult it was or how good it was.
+
+Danny stood by me in the bad or good times.
+
+Danny was a real friend and today i sure miss him...
+
+this chatbot is a homage and tribute to my good friend.
+```
+```
+DANNY CHATBOT IS NOT THE SMARTEST OR CLEVEREST CHATBOT 
+
+IT'S LOGIC AND ALGORITHM IS QUITE SIMPLE
+
+DANNY CHATBOT MIGHT ME ANNOYING SINCE IT IS VERY RELIGIOUS
+
+AND MENTIONS GOD OFTEN HOWEVER IT MEANS NO HARM OR EVIL
+
+TELL IT TO SHUT UP OR THAT IT'S WRONG AND IT WILL APOLOGIZE
+
+ASK IT TO PRAY AND IT WILL GENERATE A RANDOM PRAY
+
+TELL IT ABOUT YOURSELF OR ASK IT ABOUT ITSELF AND IT WILL TELL YOU
+
+ABOUT DANNY'S LIFE AND PAST... JUST REMEMBER THIS IS DANNY'S PRESPECTIVE
+
+YOU DO NOT HAVE TO ACCEPT OR AGREE TO EVERYTHING IT SAYS
+
+SO DON'T TAKE WHATEVER IT SAYS TOO SERIOUSLY 
+```
